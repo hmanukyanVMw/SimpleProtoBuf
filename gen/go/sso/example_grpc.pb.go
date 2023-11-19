@@ -4,7 +4,7 @@
 // - protoc             v3.21.8
 // source: sso/example.proto
 
-package main
+package sso
 
 import (
 	context "context"
