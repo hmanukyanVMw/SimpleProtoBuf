@@ -1,4 +1,4 @@
-module github.com/hmanukyanVMw
+module github.com/hmanukyanVMw/SimpleProtoBuf
 
 go 1.21
 
